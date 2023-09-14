@@ -1,0 +1,1 @@
+{"Arr Model Test":{"type":"object","properties":{"arrObj":{"type":"array","items":{"type":"object","properties":{"test":{"type":"string"},"test2":{"type":"number"}}}}}},"definitions":{}}
