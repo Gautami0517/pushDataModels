@@ -1,1 +1,0 @@
-{"address":{"type":"object","properties":{"address_id":{"type":"integer"},"address":{"type":"string"},"address2":{"type":"string"},"district":{"type":"string"},"city_id":{"type":"integer"},"postal_code":{"type":"string"},"phone":{"type":"string"},"location":{"type":"string"},"last_update":{"type":"string"}}},"definitions":{}}

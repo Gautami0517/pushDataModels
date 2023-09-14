@@ -1,1 +1,0 @@
-{"actor":{"type":"object","properties":{"actor_id":{"type":"integer"},"first_name":{"type":"string"},"last_name":{"type":"string"},"last_update":{"type":"string"}}},"definitions":{}}
